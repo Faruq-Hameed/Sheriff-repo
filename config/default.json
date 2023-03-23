@@ -1,0 +1,7 @@
+{
+    "server":{
+        "host": "localhost",
+        "port": 0
+    },
+    "URI": "mongodb+srv://username:<password>@cluster0.kci2qpn.mongodb.net/?retryWrites=true&w=majority"
+}
